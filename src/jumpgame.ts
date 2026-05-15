@@ -8,3 +8,4 @@ function canJump(nums: any[]): boolean {
   }
   return false;
 }
+
