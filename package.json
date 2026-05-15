@@ -1,0 +1,22 @@
+{
+  "name": "jump-game-logic-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript project to solve the Jump Game problem. It determines if you can reach the last index of an array based on maximum jump lengths.",
+  "main": "index.js",
+  "scripts": {
+    "dani":"tsc && node ./dist/jumpgame.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimhnnamhnna-del/jump-game-logic-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/danimhnnamhnna-del/jump-game-logic-ts/issues"
+  },
+  "homepage": "https://github.com/danimhnnamhnna-del/jump-game-logic-ts#readme"
+}
